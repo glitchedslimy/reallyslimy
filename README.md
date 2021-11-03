@@ -16,6 +16,6 @@ A software engineer based on spain
 </details>
 
 <details>
-  <summary>:tool: Tools</summary>
+  <summary>:hammer_and_wrench: Tools</summary>
 
 </details>
