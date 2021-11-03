@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Kobu</h1>
----
+
 <h2 align="center">A software engineer, musician
  and graphic designer based on Spain.</h2>
----
+
 **What are you doing Kobs?**
 
 Huh, well let me tell you:
