@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Kobu</h1>
+<h1 align="center">Hi there 👋, I'm Slimy</h1>
 
 <h2 align="center">A software engineer, musician
  and graphic designer based on Spain.</h2>
 
-**What are you doing Kobs?**
+**What are you doing Slimy?**
 
 Huh, well let me tell you:
 - 🔭 I'm experiencing new stuff with JavaScript and Python.
