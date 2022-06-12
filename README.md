@@ -6,7 +6,7 @@
 **What are you doing Kobs?**
 
 Huh, well let me tell you:
-- 🔭 I'm currently working on my own project which is a discord bot called [Koda](https://github.com/realkobu/KodaJS).
+- 🔭 I'm experiencing new stuff with JavaScript and Python.
 - 🌱 I'm learning new stuff about AWS (Amazon Web Services), Azure and Cloud Architecture as well as DevOps.
 - 💬 Ask me about anything, I like to talk with other people and share opinions and things in common!
 - 👯 I’m looking to collaborate on new projects as well as open source projects this year.
