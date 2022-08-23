@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **TypeScript, React, .NET, Linux, bash**
 
-- 📫 How to reach me **slimycreates@gamil.com**
+- 📫 How to reach me **slimycreates@gmail.com**
 
 - ⚡ Fun fact **I actually like sports (yes, I'm a programmer as well)**
 
