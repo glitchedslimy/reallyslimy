@@ -1,7 +1,7 @@
 <img src="./header.png"/>
 
 <table><tr><td valing="top">
-### <div align="center">A fullstack developer, musician and designer based on Spain.</div>  
+ <h1 align="center">A fullstack developer, musician and designer based on Spain.</h1>  
   
 
 - 🔭 I’m currently working on [KomiTS](https://github.com/reallyslimy/KomiTS)  
