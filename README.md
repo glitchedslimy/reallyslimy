@@ -1,5 +1,6 @@
-<img src="./header.png"/> <a href="https://app.daily.dev/Slimy"><img src="https://api.daily.dev/devcards/7e637355f4614b63be35151588821443.png?r=cwz" width="400" alt="Slimy's Dev Card"/></a>
+<img src="./header.png"/>
 
+<table><tr><td valing="top">
 ### <div align="center">A fullstack developer, musician and designer based on Spain.</div>  
   
 
@@ -12,8 +13,12 @@
 - ❓ Ask me about anything related to tech and wear, I'm always open to good conversations!  
   
 
-- ⚡ Fun fact: I wear glasses because I can't C#  
-  
+- ⚡ Fun fact: I wear glasses because I can't C#
+  </td>
+  <td>
+    <a href="https://app.daily.dev/Slimy"><img src="https://api.daily.dev/devcards/7e637355f4614b63be35151588821443.png?r=cwz" width="400" alt="Slimy's Dev Card"/></a>
+  </td>
+  </table>
 
 <br/>  
 
