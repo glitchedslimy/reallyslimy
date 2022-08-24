@@ -1,4 +1,4 @@
-<img src="./header.png"/>
+<img src="./header.png"/> <a href="https://app.daily.dev/Slimy"><img src="https://api.daily.dev/devcards/7e637355f4614b63be35151588821443.png?r=cwz" width="400" alt="Slimy's Dev Card"/></a>
 
 ### <div align="center">A fullstack developer, musician and designer based on Spain.</div>  
   
