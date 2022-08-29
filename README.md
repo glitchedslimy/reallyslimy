@@ -1,5 +1,3 @@
-<img src="./header.png"/>
-
 <table><tr><td valing="top">
  <h1 align="center">A fullstack developer, musician and designer based on Spain.</h1>  
   
@@ -16,7 +14,7 @@
 - ⚡ Fun fact: I wear glasses because I can't C#
   </td>
   <td>
-    <a href="https://app.daily.dev/Slimy"><img src="https://api.daily.dev/devcards/7e637355f4614b63be35151588821443.png?r=cwz" width="400" alt="Slimy's Dev Card"/></a>
+   <a href="https://app.daily.dev/Slimy"><img src="https://api.daily.dev/devcards/7e637355f4614b63be35151588821443.png?r=cal" width="400" alt="Slimy's Dev Card"/></a>
   </td>
   </table>
 
