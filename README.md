@@ -1,3 +1,4 @@
+# Hi, I'm Jesus, more known as Slimy, a fullstack + DevOps developer.
 # 💫 About Me:
 🔭 I'm currently looking for new projects<br><br>🌱 Currently learning C++ and game dev development and design.<br><br>❓You can ask me whatever comes to your mind related to programming.<br><br>⚡ Fun Fact: I prefer tabs over spaces.
 
